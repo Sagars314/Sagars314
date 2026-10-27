@@ -1,22 +1,22 @@
 # Hi, I'm Sagar 👋
 
-Completed a Bachelor’s in **Computer Science** and currently pursuing a Master’s in **Statistics**.”
+I hold a Bachelor's degree in **Computer Science** and am currently pursuing a Master's in **Statistics**.
 
-## Interests 
-- Mathematical Statistics
-- Statistical Inference
-- Probability Theory
-- R Programming and Statistical Computing
+## Interests
+- Mathematical statistics
+- Statistical inference
+- Probability theory
+- R programming and statistical computing
 
 ## Currently Learning
-- Statistical Inference & Estimation theory
+- Statistical inference and estimation theory
 - R package development
-- Implementing statistical theory using R
+- Implementing statistical theory in R
 
 ## Goals
 - Build useful statistical tools in R
-- Improve understanding of theoretical statistics
+- Deepen my understanding of theoretical statistics
 - Contribute to open-source statistical projects
 
 ## Hobbies
-- Digital exploration (Surfing the internet)
+- Exploring the internet and all things digital
