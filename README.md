@@ -1,6 +1,8 @@
-# Hi, I'm Sagar 👋
+# Hi, I'm Sagar 3.14👋
 
-I'm a programmer.
+I write code and build things.
 
 ## Interests
-- Programming
+- Building projects
+- AI development
+- Reading and exploring new tech on the internet
